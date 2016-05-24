@@ -1,0 +1,6 @@
+.metadata
+.idea
+*.iml
+build
+.DS_Store
+/bin/
